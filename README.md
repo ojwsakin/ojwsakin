@@ -13,6 +13,9 @@
         - 한국전파진흥협회, 카카오
         - 2023.05.03
 - **Certificate**
+    - **CKS (Certified Kubernetes Security Specialist)**
+        - Linux Foundation
+        - 2023.09.18
     - **CKA (Certified Kubernetes Administartor)**
         - Linux Foundation
         - 2023.01.30
@@ -25,4 +28,3 @@
 - 💻 **카카오 클라우드 스쿨 엔지니어 과정 2기 - 수료**
     - 2022.11 ~ 2023.05
 
-### {{ Projects }}
